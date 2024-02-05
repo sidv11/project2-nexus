@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "Innovate, Captivate, Succeed.",
+    "paragraph": "Welcome to Techy Software Inc., where innovative solutions meet seamless experiences."
+  },
+  "About": {
+    "paragraph": "At Techy Softwares Inc., we believe in the power of innovation to shape a better future. Our journey is rooted in a commitment to excellence, where we blend creativity with cutting-edge technology. Through collaborative efforts, we strive to redefine possibilities and deliver solutions that transcend expectations. Join us as we embark on a transformative experience, driven by passion and a relentless pursuit of excellence.",
+    "Why": [
+      "Quality & Innovation",
+      "Tailored Solutions",
+      "Commitment to Excellence",
+      "Dedicated to Your Success"
+    ],
+    "Why2": [
+      "Exceptional Expertise",
+      "Impactful Experiences",
+      "Collaborative Approach",
+      "Collaborative Approach"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Web Development",
+      "text": "Crafting seamless web solutions tailored to your unique needs. ."
+    },
+    
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-commerce Solutions",
+      "text": "Transform your online presence with cutting-edge e-commerce solutions."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud Solutions",
+      "text": "Unlock the potential of the cloud with our innovative solutions."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Multilingual Support",
+      "text": "Expand your reach with our comprehensive multilingual support."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Travel Technology",
+      "text": "Elevate your travel experiences with cutting-edge technology solutions."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Data Analytics",
+      "text": "Harness the power of data with our advanced analytics solutions."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Techy Software exceeded our expectations! Their innovative solutions transformed our business.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The seamless web development by Techy Software greatly improved our online presence. Highly recommended!\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Exceptional expertise! Techy Software's commitment to excellence is evident in every project. A trusted partner\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"The e-commerce solutions provided by Techy Software propelled our business to new heights. Outstanding results!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Collaborating with Techy Software was a game-changer for our company. Their impact is truly remarkable.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Karen Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Mike Doe",
+      "job": "Project Manager"
+    }
+  ],
+  
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Engage and Connect",
+      "text": "Spark meaningful conversations and build connections with our interactive features designed to enhance user engagement."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Amplify Your Message",
+      "text": "Make a lasting impact by amplifying your message through our powerful and effective communication tools."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Unity in Diversity",
+      "text": "Foster unity within diverse communities by creating inclusive spaces that celebrate differences and encourage collaboration."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Unleash Creativity",
+      "text": "Experience the magic of creativity as we bring innovative solutions to life, transforming ideas into reality."
+    }
+  ]
+  
+}
